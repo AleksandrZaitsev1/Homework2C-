@@ -21,3 +21,4 @@ void CheckingTheDayOfTheWeek (int dayNumber)
 }
 
 CheckingTheDayOfTheWeek(dayNumber);
+
